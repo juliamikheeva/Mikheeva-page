@@ -1,0 +1,35 @@
+{
+    "title": "Лабораторная работа 7",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание состава",
+                    "class": "md-title"
+                }
+            ]
+        },
+         {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описываемый объект: структура программных средств системы"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+              {
+                "text": "Диаграмма UML Component",
+                "link": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/UML%20Component"
+              }
+            ]
+        },
+      {
+        "type": "image",
+        "data": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/7пункт.png"
+      }
+    ]
+}

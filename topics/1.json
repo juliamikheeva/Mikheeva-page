@@ -1,0 +1,28 @@
+{
+    "title": "Лабораторная работа 4",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма прецедентов",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+              {
+                "text": "Диаграмма UML Use Case",
+                "link": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/uml%20use%20case"
+              }
+            ]
+        },
+      {
+        "type": "image",
+        "data": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/Рисунок1.jpg"
+      }
+    ]
+}
+

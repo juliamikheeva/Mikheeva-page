@@ -1,0 +1,36 @@
+{
+    "title": "Лабораторная работа 6",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Описание алгоритма",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+              {
+                "text": "Описываемые процессы и потоки данных: A24 Зарегистрировать пользователей"
+              }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+              {
+                "text": "Диаграмма UML Sequence",
+                "link": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/UML%20Sequence"
+              }
+            ]
+        },
+      {
+        "type": "image",
+        "data": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/А31_6.png"
+      }
+         
+    ]
+}

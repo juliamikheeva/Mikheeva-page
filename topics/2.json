@@ -1,0 +1,34 @@
+{
+    "title": "Лабораторная работа 5",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Структура объекта системы",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+              {
+                "text": "Описываемый объект: БД WordPress"
+              }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма UML Class"
+                }
+            ]
+        },
+      {
+        "type": "image",
+        "data": "https://github.com/juliamikheeva/Mikheeva.github.io/blob/master/курсовая/d2NrQN4Cf58.jpg"
+      }
+    ]
+}

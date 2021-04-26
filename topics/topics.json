@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Лабораторная работа 4",
+        "description": "Диаграмма UML Use Case",
+        "preview": "img/73pFUiuG_gI.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Лабораторная работа 5",
+        "description": "Диаграмма UML Class",
+        "preview": "img/d2NrQN4Cf58.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Лабораторная работа 6",
+        "description": "Диаграмма UML Sequence",
+        "preview": "img/А31_6.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Лабораторная работа 7",
+        "description": "Диаграмма UML Component",
+        "preview": "img/7пункт.png"
+    }
+]
